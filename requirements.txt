@@ -1,0 +1,17 @@
+# LingNexus 依赖包
+# AgentScope 框架及其依赖
+agentscope>=0.0.5
+dashscope>=1.14.0
+
+# 化学计算库
+rdkit>=2023.3.1
+
+# 基础依赖
+requests>=2.31.0
+pydantic>=1.10.0,<3.0.0
+
+# 可选：OpenAI API 兼容（DeepSeek/Gemini）
+openai>=1.0.0
+
+# Web UI（图形界面）
+gradio>=3.50.0,<4.0.0

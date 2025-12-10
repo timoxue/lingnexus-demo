@@ -1,0 +1,24 @@
+[
+  {
+    "config_name": "qwen-max",
+    "model_type": "dashscope_chat",
+    "api_key": "qwen-key",
+    "model_name": "qwen-max"
+  },
+  {
+    "config_name": "deepseek",
+    "model_type": "openai_chat",
+    "api_key": "YOUR_DEEPSEEK_API_KEY",
+    "model_name": "deepseek-chat",
+    "organization": null,
+    "client_args": {
+      "base_url": "https://api.deepseek.com"
+    }
+  },
+  {
+    "config_name": "gemini",
+    "model_type": "gemini_chat",
+    "api_key": "YOUR_GEMINI_API_KEY",
+    "model_name": "gemini-3-pro-preview"
+  }
+]

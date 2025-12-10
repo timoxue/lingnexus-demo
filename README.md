@@ -507,15 +507,6 @@ conda install -c conda-forge rdkit
 **A**: 编辑 `tools/chem_tools.py` 中的 `pass_threshold`：
 ```python
 pass_threshold = 2  # 降低为 2（原为 3）
-```
-
----
-
-## 📞 联系我们
-
-**项目负责人**：丽珠医药 IT 部门  
-**框架支持**：AgentScope (阿里通义实验室开源)  
-**技术栈**：Python 3.9+, AgentScope, RDKit, Qwen-Max
 
 ---
 
